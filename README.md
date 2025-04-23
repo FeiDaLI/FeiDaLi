@@ -1,12 +1,3 @@
-<!-- Header Section with Animated Text -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
-</div>
-
-<!-- Profile Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:301E67,100:7743DB&height=210&section=header&text=FeiDaLI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passionate%20Developer%20Building%20Amazing%20Projects&descAlignY=55&descAlign=62" />
-
-
 <!-- Stats Section -->
 ## 📊 GitHub Stats
 
