@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </div>
 
 <!-- Profile Banner -->
