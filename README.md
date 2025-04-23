@@ -24,8 +24,6 @@
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FeiDaLI&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" />
 </a>
 
-<!-- Skills Section -->
-
 
 <!-- Trophies Section -->
 <div align="center">
@@ -36,11 +34,7 @@
 <img src="https://github.com/FeiDaLI/FeiDaLI/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <!-- Metrics and Achievements -->
-## 📈 Contribution Metrics
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/FeiDaLI?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FShanghai" />
-</div>
 <!-- Footer Section -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:301E67,100:7743DB&height=120&section=footer" />
 
