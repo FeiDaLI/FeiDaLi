@@ -14,11 +14,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeiDaLI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeiDaLI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FeiDaLI&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
 <!-- Activity Graph -->
 <a href="https://github.com/FeiDaLI/github-readme-activity-graph">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FeiDaLI&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" />
