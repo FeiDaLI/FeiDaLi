@@ -6,14 +6,6 @@
 <!-- Profile Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:301E67,100:7743DB&height=210&section=header&text=FeiDaLI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passionate%20Developer%20Building%20Amazing%20Projects&descAlignY=55&descAlign=62" />
 
-<!-- About Me Section -->
-## 🌌 About Me
-
-<div align="center">
-  <a href="https://github.com/FeiDaLI">
-    <img src="https://komarev.com/ghpvc/?username=FeiDaLI&color=6c5eff&style=for-the-badge" alt="Profile Views" />
-  </a>
-</div>
 
 <!-- Stats Section -->
 ## 📊 GitHub Stats
