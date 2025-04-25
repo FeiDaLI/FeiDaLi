@@ -12,14 +12,14 @@
 </div>
 
 
-## 📚 笔记
-* **[Effective C++](https://github.com/FeiDaLI/Effective-C-)** - 经典 Effective C++ 中文翻译
-* **[More Effective C++](https://github.com/FeiDaLI/More-Effective-CPP)** - 深度探索 C++ 的进阶主题
-* **[嵌入式C语言自我修养笔记](https://github.com/FeiDaLI/-C-)** - 关于嵌入式 C 语言编程的思考与总结
-* **[C++对象模型](https://github.com/FeiDaLI/CPP-object-model)** - 剖析 C++ 对象的内存布局和行为
-* **[Modern Effective C++](https://github.com/FeiDaLI/Effective-Modern-cpp)** - 学习现代 C++ (C++11/14/17) 的最佳实践
-* **[STL源码剖析](https://github.com/FeiDaLI/STL-source-code)** - 深入理解 C++ 标准模板库的实现原理
+## 📌 笔记
 
+* **[Effective C++](https://github.com/FeiDaLI/Effective-C-)** [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://github.com/FeiDaLI/Effective-C-) [![Translation](https://img.shields.io/badge/Translation-Chinese-brightgreen.svg)](https://github.com/FeiDaLI/Effective-C-)
+* **[More Effective C++](https://github.com/FeiDaLI/More-Effective-CPP)** [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://github.com/FeiDaLI/More-Effective-CPP)
+* **[嵌入式C语言自我修养笔记](https://github.com/FeiDaLI/-C-)** [![Language](https://img.shields.io/badge/Language-C-yellow.svg)](https://github.com/FeiDaLI/-C-) [![Topic](https://img.shields.io/badge/Topic-Embedded-orange.svg)](https://github.com/FeiDaLI/-C-)
+* **[C++对象模型](https://github.com/FeiDaLI/CPP-object-model)** [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://github.com/FeiDaLI/CPP-object-model) [![Topic](https://img.shields.io/badge/Topic-Internals-lightgrey.svg)](https://github.com/FeiDaLI/CPP-object-model)
+* **[Modern Effective C++](https://github.com/FeiDaLI/Effective-Modern-cpp)** [![Language](https://img.shields.io/badge/Language-C%2B%2B11/14/17-blueviolet.svg)](https://github.com/FeiDaLI/Effective-Modern-cpp)
+* **[STL源码剖析](https://github.com/FeiDaLI/STL-source-code)** [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://github.com/FeiDaLI/STL-source-code) [![Topic](https://img.shields.io/badge/Topic-STL-brightgreen.svg)](https://github.com/FeiDaLI/STL-source-code)
 <!-- 
 You can update the following:
 1. Replace "project-1", "project-2", etc. with your actual project repository names
